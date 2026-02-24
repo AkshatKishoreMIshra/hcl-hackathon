@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore SQLite DB (optional)
+event_booking.db
+
+# Ignore virtual environments
+venv/
+.env
+
+# IDE/editor files
+.vscode/
+.idea/
